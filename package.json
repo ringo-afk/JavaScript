@@ -1,0 +1,14 @@
+{
+  "name": "clase",
+  "version": "1.0.0",
+  "description": "Servidor web local con Express.js",
+  "main": "index.js",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
